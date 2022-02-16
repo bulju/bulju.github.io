@@ -6,7 +6,7 @@
 
 - Microservices big fan: Using **docker** and **docker-compose** since 2017. **Kubernetes** and **helm** evangelizer.
 - Coding skills on **bash**, **golang**, **groovy** and **python**.
-- **Automatization** and **git** as a must: Making manual changes is the easiest way to break things and don't know why.
+- **Automatization** and **git** as a must: Making manual changes is the easiest way to break things and don't understand why.
 - **Monitoring** and a good **logging** to improve response time, avoid downtimes and prevent future headpains.
 - Infrastructure as code with **terraform**.
 - Curious of **new technologies** in general, like to learn new lenguajes and tools in order to make life easier.
