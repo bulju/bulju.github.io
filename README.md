@@ -48,7 +48,7 @@ I was doing pentests works and designed their remediations. I did around 10 pent
 
 ### NEC Argentina - SysAdmin & Support (July-15/July-16).
 
-## Lenguajes
+## Languages
 
 - Spanish (native).
 - English (advanced).
