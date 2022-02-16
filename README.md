@@ -17,13 +17,13 @@
 
 ## Professional Experience
 
-### Mulesoft (A Salesforce Company) - Senior member of the technical staff (February-22/Present)
+### Mulesoft (A Salesforce Company) - Senior Member of the Technical Staff (February-22/Present)
 
 As the company continued growing, we founded a team called `developer productivity`, we're on charge of the tooling needed to get software build and deploy applications in the cloud.
 We tackled a lot of compliance and security issues, trying to not frustrate developers across the company, by creating automation and tools for make those expensive changes transparent for development teams.
 Also, the team has a lot of new co-workers, so in this stage I'm mentoring them and contributing to their career development in the company.
 
-### Mulesoft (A Salesforce Company) - Member of the technical staff (February-20/February-22)
+#### Mulesoft (A Salesforce Company) - Member of the Technical Staff (February-20/February-22)
 
 Managing build infrastructure. We contribute developers team to make their pipelines and their development tooling.
 We use Jenkins, SonarQube, Nexus repository, NexusIQ, Vault, and a few more technologies for reaching our goals.
@@ -31,7 +31,7 @@ We're always researching new technologies to improve teams productivity. We moni
 We use **Amazon Web Services** as our cloud provider. And we deploy our tools to a **Kubernetes** cluster, using **Helm**.
 I am the first engineer in a team of 5 people and it's keeping growing.
 
-#### Mulesoft (A Salesforce Company) - Associate Member of the technical staff (March-19/February-20)
+#### Mulesoft (A Salesforce Company) - Associate Member of the Technical Staff (March-19/February-20)
 
 I started at the SRE team, managing instances patching and intrastructure management. Then I moved to Engineering Services team, working in the build process and tooling.
 
