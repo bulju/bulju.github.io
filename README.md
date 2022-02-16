@@ -1,4 +1,3 @@
-# JUAN MANUEL REY
 
 - **email**: jumanuelrey@gmail.com
 - **phone number**: +54 11 6694 5547
