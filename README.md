@@ -18,7 +18,7 @@
 
 ### Mulesoft (A Salesforce Company) - Senior Member of the Technical Staff (February-22/Present)
 
-As the company continued growing, we founded a team called `developer productivity`, we're on charge of the tooling needed to get software build and deploy applications in the cloud.
+As the company continued growing, we founded a team called **developer productivity**, we're on charge of the tooling needed to get software build and deploy applications in the cloud.
 We tackled a lot of compliance and security issues, trying to not frustrate developers across the company, by creating automation and tools for make those expensive changes transparent for development teams.
 Also, the team has a lot of new co-workers, so in this stage I'm mentoring them and contributing to their career development in the company.
 
