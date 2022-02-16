@@ -11,12 +11,19 @@
 - **Monitoring** and a good **logging** to improve response time, avoid downtimes and prevent future headpains.
 - Infrastructure as code with **terraform**.
 - Curious of **new technologies** in general, like to learn new lenguajes and tools in order to make life easier.
+- Specially curious about **linux** and **open source** since I was a child.
 - Like to establish a good relationship with my **co-workers**, I believe that work is an important part of my life, and I made good **friends** in my carreer. I'm a **empathic**, **responsible** person.
 - I like **challenges**, and I don't have problem assuming **risks**.
 
 ## Professional Experience
 
-### Mulesoft (A Salesforce Company) - Member of the technical staff (February-20/Present)
+### Mulesoft (A Salesforce Company) - Senior member of the technical staff (February-22/Present)
+
+As the company continued growing, we founded a team called `developer productivity`, we're on charge of the tooling needed to get software build and deploy applications in the cloud.
+We tackled a lot of compliance and security issues, trying to not frustrate developers across the company, by creating automation and tools for make those expensive changes transparent for development teams.
+Also, the team has a lot of new co-workers, so in this stage I'm mentoring them and contributing to their career development in the company.
+
+### Mulesoft (A Salesforce Company) - Member of the technical staff (February-20/February-22)
 
 Managing build infrastructure. We contribute developers team to make their pipelines and their development tooling.
 We use Jenkins, SonarQube, Nexus repository, NexusIQ, Vault, and a few more technologies for reaching our goals.
@@ -51,6 +58,5 @@ I was doing pentests works and designed their remediations. I did around 10 pent
 
 - Amateur football and tennis player.
 - Amateur skateboarder and snowboarder.
-- Gaming (CS:GO, Valorant).
 - Really amateur guitar player.
-- Learning about photography with drones and DRSL cameras.
+- Learning about photography with drones and mirrorless cameras.
