@@ -1,6 +1,6 @@
 
 - **email**: jumanuelrey@gmail.com
-- **phone number**: +54 11 6694 5547
+- **phone number**: +31 6 87 02 76 38
 
 ## A little summary of me
 
@@ -16,7 +16,13 @@
 
 ## Professional Experience
 
-### Mulesoft (A Salesforce Company) - Senior Member of the Technical Staff (February-22/Present)
+### TripActions - Senior Site Reliability Engineer (May-22/Present)
+
+In this oportunity I take a challenge by moving to Amsterdam, Netherlands.
+In this period I'm working improving the company's infrastructure which is running in **AWS ECS**, solving incidents and creating terraform modules to deploy our infrastructure components.
+Also, I contribute in the SDLC process, using my previous experience to bring to the engineering teams the best practices when we build software.
+
+### Mulesoft (A Salesforce Company) - Senior Member of the Technical Staff (February-22/April-22)
 
 As the company continued growing, we founded a team called **developer productivity**, we're in charge of the tooling needed to get the software to build and deploy applications in the cloud.
 We tackled a lot of compliance and security issues, trying to not frustrate developers across the company, by creating automation and tools for making those expensive changes transparent for development teams.
