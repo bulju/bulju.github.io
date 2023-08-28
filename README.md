@@ -1,13 +1,14 @@
+# Juan Manuel Rey - Senior SRE | Senior DevOps Engineer
 
 - **email**: jumanuelrey@gmail.com
-- **phone number**: +31 6 87 02 76 38
+- **phone number**: +54 11 6694 5547
 
 ## A little summary of me
 
 - Microservices big fan: Using **docker** and **docker-compose** since 2017. **Kubernetes** and **helm** evangelizer.
 - Coding skills on **bash**, **golang**, **groovy** and **python**.
-- **Automatization** and **git** as a must: Making manual changes is the easiest way to break things and don't understand why.
-- **Monitoring** and a good **logging** to improve response time, avoid downtimes and prevent future head pains.
+- I believe that **automatization** and **git** as a must: Making manual changes is the easiest way to break things and don't understand why.
+- I trust in **metrics**, so, **monitoring** and a good **logging** to improve response time, avoid downtimes and prevent future head pains.
 - Infrastructure as code with **terraform**.
 - I'm curious about **new technologies** in general like to learn new languages and tools in order to make life easier.
 - Especially curious about **Linux** and **open source** since I was a child.
@@ -16,11 +17,21 @@
 
 ## Professional Experience
 
-### TripActions - Senior Site Reliability Engineer (May-22/Present)
+### Migthy Block [Working for Forte.io] - Senior DevOps Engineer (March-23/Present)
 
-In this oportunity I take a challenge by moving to Amsterdam, Netherlands.
-In this period I'm working improving the company's infrastructure which is running in **AWS ECS**, solving incidents and creating terraform modules to deploy our infrastructure components.
-Also, I contribute in the SDLC process, using my previous experience to bring to the engineering teams the best practices when we build software.
+Working on improving the company's processes, and its way to deploy to production and to ensure quality and reducing the complexity and the gap for downtimes.
+We manage 2 big products and we maintain a Kubernetes cluster for each product per environment. For some microservices we use **lambdas functions**.
+I worked on the re-design of the network architecture for incoming requests, using **AWS API-Gateway** to support both, EKS pods and lambda functions, using only 1 entrypoint.
+I also led the IaC adoption for tools like **Datadog** and **LaunchDarkly**.
+We are migrating our CI/CD systems to Github Actions, I contributed on the runners' implementation in our EKS clusters and also with the pipelines templates in order to use reusable workflows.
+
+### Navan (Formerly TripActions)- Senior Site Reliability Engineer (May-22/March-23)
+
+In this oportunity I took a challenge by moving to Amsterdam, Netherlands.
+In this period I worked improving the company's infrastructure which is running in **AWS ECS**, solving incidents and creating terraform modules to deploy our infrastructure components.
+Also, I contributed in the SDLC process, using my previous experience to bring to the engineering teams the best practices when we build software.
+I worked on moving all the static assets to an S3 implementation, creating the pipeline and designing the architecture, using **Cloudflare** as CDN, loading times were 10x faster with this new architecture.
+I also contributed on implementing IaC for feature flags, using **Split.io** as feature-flags provider. This included some PRs to the split.io terraform provider, which is open source.
 
 ### Mulesoft (A Salesforce Company) - Senior Member of the Technical Staff (February-22/April-22)
 
