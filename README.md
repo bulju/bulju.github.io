@@ -7,12 +7,12 @@
 
 - Microservices big fan: Using **docker** and **docker-compose** since 2017. **Kubernetes** and **helm** evangelizer.
 - Coding skills on **bash**, **golang**, **groovy** and **python**.
-- I believe that **automatization** and **git** as a must: Making manual changes is the easiest way to break things and don't understand why.
-- I trust in **metrics**, so, **monitoring** and a good **logging** to improve response time, avoid downtimes and prevent future head pains.
+- I believe that **automatization** and **git** are a must: Making manual changes is the easiest way to break things and don't understand why.
+- I trust in **metrics**, so, **monitoring** and a good **logging** to improve response time, avoid downtimes, and prevent future head pains.
 - Infrastructure as code with **terraform**.
-- I'm curious about **new technologies** in general like to learn new languages and tools in order to make life easier.
+- I'm curious about **new technologies** in general and like to learn new languages and tools in order to make life easier.
 - Especially curious about **Linux** and **open source** since I was a child.
-- Like to establish a good relationship with my **co-workers**, I believe that work is an important part of my life, and I made good **friends** in my career. I'm a **empathic**, **responsible** person.
+I like to establish good relationships with my **co-workers**, I believe that work is an important part of my life, and I made good **friends** in my career. I'm a **empathic**, **responsible** person.
 - I like **challenges**, and I don't have a problem assuming **risks**.
 
 ## Professional Experience
@@ -21,35 +21,35 @@
 
 Working on improving the company's processes, and its way to deploy to production and to ensure quality and reducing the complexity and the gap for downtimes.
 We manage 2 big products and we maintain a Kubernetes cluster for each product per environment. For some microservices we use **lambdas functions**.
-I worked on the re-design of the network architecture for incoming requests, using **AWS API-Gateway** to support both, EKS pods and lambda functions, using only 1 entrypoint.
+I worked on the re-design of the network architecture for incoming requests, using **AWS API-Gateway** to support both, EKS pods and lambda functions, using only 1 entry point.
 I also led the IaC adoption for tools like **Datadog** and **LaunchDarkly**.
-We are migrating our CI/CD systems to Github Actions, I contributed on the runners' implementation in our EKS clusters and also with the pipelines templates in order to use reusable workflows.
+We are migrating our CI/CD systems to GitHub Actions, I contributed to the runners' implementation in our EKS clusters and also with the pipelines templates in order to use reusable workflows.
 
 ### Navan (Formerly TripActions)- Senior Site Reliability Engineer (May-22/March-23)
 
-In this oportunity I took a challenge by moving to Amsterdam, Netherlands.
-In this period I worked improving the company's infrastructure which is running in **AWS ECS**, solving incidents and creating terraform modules to deploy our infrastructure components.
-Also, I contributed in the SDLC process, using my previous experience to bring to the engineering teams the best practices when we build software.
-I worked on moving all the static assets to an S3 implementation, creating the pipeline and designing the architecture, using **Cloudflare** as CDN, loading times were 10x faster with this new architecture.
-I also contributed on implementing IaC for feature flags, using **Split.io** as feature-flags provider. This included some PRs to the split.io terraform provider, which is open source.
+In this opportunity, I took a challenge by moving to Amsterdam, Netherlands.
+In this period I worked on improving the company's infrastructure which is running in **AWS ECS**, solving incidents, and creating terraform modules to deploy our infrastructure components.
+Also, I contributed to the SDLC process, using my experience to bring the best practices to the engineering teams when we build software.
+I worked on moving all the static assets to an S3 implementation, creating the pipeline, and designing the architecture, using **Cloudflare** as CDN, loading times were 10x faster with this new architecture.
+I also contributed to implementing IaC for feature flags, using **Split.io** as a feature-flags provider. This included some PRs to the split.io terraform provider, which is open source.
 
 ### Mulesoft (A Salesforce Company) - Senior Member of the Technical Staff (February-22/April-22)
 
 As the company continued growing, we founded a team called **developer productivity**, we're in charge of the tooling needed to get the software to build and deploy applications in the cloud.
 We tackled a lot of compliance and security issues, trying to not frustrate developers across the company, by creating automation and tools for making those expensive changes transparent for development teams.
-Also, the team has a lot of new co-workers, so in this stage, I'm mentoring them and contributing to their career development in the company.
+Also, the team has a lot of new co-workers, so at this stage, I'm mentoring them and contributing to their career development in the company.
 
 #### Mulesoft (A Salesforce Company) - Member of the Technical Staff (February-20/February-22)
 
-Managing build infrastructure. We contribute developers teams to make their pipelines and their development tooling.
-We use Jenkins, SonarQube, Nexus repository, NexusIQ, Vault, and a few more technologies for reaching our goals.
-We're always researching new technologies to improve teams' productivity. We monitor our infra with **New Relic** and our log collector is  **Sumologic**.
+Managing to build infrastructure. We contribute developers teams to make their pipelines and their development tooling.
+We use Jenkins, SonarQube, Nexus Repository, NexusIQ, Vault, and a few more technologies to reach our goals.
+We're constantly researching new technologies to improve teams' productivity. We monitor our infra with **New Relic** and our log collector is  **Sumologic**.
 We use **Amazon Web Services** as our cloud provider. And we deploy our tools to a **Kubernetes** cluster, using **Helm**.
-I am the first engineer in a team of 5 people and it's keeping growing.
+I am the first engineer in a team of 5 people and it's kept growing.
 
 #### Mulesoft (A Salesforce Company) - Associate Member of the Technical Staff (March-19/February-20)
 
-I started at the SRE team, managing instances patching and infrastructure management. Then I moved to the Engineering Services team, working in the build process and tooling.
+I started on the SRE team, managing instances of patching and infrastructure management. Then I moved to the Engineering Services team, working in the build process and tooling.
 
 ### Exo S.A - Sysadmin/DevOps (August-17/March-19)
 
@@ -59,7 +59,7 @@ We also had a mid-scale infrastructure running in **Azure**.
 
 ### Penta Security Solutions - Ethical Hacker (May-17/August-17)
 
-I was doing pentests works and designed their remediations. I did around 10 pentests and all were successful, and then we remediated those vulnerabilities.
+I was doing pen tests and designed their remediations. I did around 10 pen tests and all were successful, and then we remediated those vulnerabilities.
 
 ### INdeR (Public Finance Minister)- SysAdmin (July-16/May-17).
 
