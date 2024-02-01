@@ -5,14 +5,14 @@
 
 ## A little summary of me
 
-- Microservices big fan: Using **docker** and **docker-compose** since 2017. **Kubernetes** and **helm** evangelizer.
-- Coding skills on **bash**, **golang**, **groovy** and **python**.
-- I believe that **automatization** and **git** are a must: Making manual changes is the easiest way to break things and don't understand why.
-- I trust in **metrics**, so, **monitoring** and a good **logging** to improve response time, avoid downtimes, and prevent future head pains.
-- Infrastructure as code with **terraform**.
+- Microservices big fan: Using **docker** and **docker-compose** since 2017. **Kubernetes** and **helm** lover.
+- Coding skills on **golang**, **groovy** and **python**.
+- I believe that **automatization** and **git** are a must when working in an engineering team: Making manual changes will probably lead the team to break things and don't understand why.
+- I trust in **metrics**, so, I think that **monitoring** and a good **logging** will improve response times, avoid downtimes, and prevent future head pains.
+- I like automating infrastructure creation, configuration and maintaining with **terraform**.
 - I'm curious about **new technologies** in general and like to learn new languages and tools in order to make life easier.
 - Especially curious about **Linux** and **open source** since I was a child.
-I like to establish good relationships with my **co-workers**, I believe that work is an important part of my life, and I made good **friends** in my career. I'm a **empathic**, **responsible** person.
+- I like to establish good relationships with my **co-workers**, I believe that work is an important part of my life, and I made good **friends** in my career. I'm a **empathic**, **responsible** person.
 - I like **challenges**, and I don't have a problem assuming **risks**.
 
 ## Professional Experience
