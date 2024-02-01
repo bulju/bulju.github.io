@@ -21,7 +21,7 @@ I like to establish good relationships with my **co-workers**, I believe that wo
 
 Working on improving the company's processes, and its way to deploy to production and to ensure quality and reducing the complexity and the gap for downtimes.
 I'm taking tasks of mentorship for less experienced colleagues. I'm also planning new initiatives, creating the documents and guidelines needed for convince the management to execute them, plan the needed resources and time for the execution, and execute following the defined guidelines.
-We manage 2 big products and we maintain a Kubernetes cluster for each product per environment. For some microservices we use **lambdas functions**.
+We manage 2 big products and we maintain a Kubernetes cluster for each product per environment. For some microservices we use **lambda functions**.
 I worked on the re-design of the network architecture for incoming requests, using **AWS API-Gateway** to support both, EKS pods and lambda functions, using only 1 entry point.
 I also led the IaC adoption for tools like **Datadog** and **LaunchDarkly**.
 I participated as a main engineer in the migration from Harness to **Github Actions**, we moved all the custom pipelines that we had to an standarized reusable workflows model. Leaving only 3 use cases and standarizing the quality and the reliability of the components across the organization.
