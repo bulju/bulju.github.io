@@ -9,10 +9,10 @@
 - For orchrestration I prefer to use **Kubernetes**, I also have experience using **Nomad**.
 - As a cloud provider, my biggest experience is using **AWS**, but I also managed an **Azure** infrastructure.
 - Coding skills on **golang**, **groovy** and **python**.
+- I like automating infrastructure creation, configuration and maintaining with **terraform**. I also have experience using **ansible**.
 - I have experience not only using CI/CD tools like **Jenkins**, **Github Actions**, **Buildkite**, but also managing their infrastructure, and maintaining pipelines.
 - I believe that **automatization** and **git** are a must when working in an engineering team: Making manual changes will probably lead the team to break things and don't understand why.
-- I trust in **metrics**, so, I think that **observability** is a key for a healthy infrastructure.
-- I like automating infrastructure creation, configuration and maintaining with **terraform**. I also have experience using **ansible**.
+- I believe in taking *data-driven* decisions, so, I think that **observability** is a key for a healthy infrastructure and making the right choices.
 - I'm curious about **new technologies** in general and like to learn new languages and tools in order to make life easier.
 - Especially curious about **Linux** and **open source** since I was a child.
 - I like to establish good relationships with my **co-workers**, I believe that work is an important part of my life, and I made good **friends** in my career. I'm a **empathic**, **responsible** person.
@@ -23,7 +23,7 @@
 ### Morean [Working for Wonolo.com] - Senior DevOps Engineer (March-24/Present)
 
 As a Senior member of the team, I participated in the planning and estimation for the quarters, to decide which were the priorities for the team and the company for those periods.
-I'm worked closely with the developers team to improve their experience, mentoring them in the as best as possible DevOps practices. I maintained the pipelines that run in Buildkite to help them to get to production. I also maintained the reliability of the platform that runs in Nomad clusters in AWS, by using Terraform and Ansible.
+I worked closely with the developers team to improve their experience, mentoring them in the as best as possible DevOps practices. I maintained the pipelines that run in Buildkite to help them to get to production. I also maintained the reliability of the platform that runs in Nomad clusters in AWS, by using Terraform and Ansible.
 I contributed isolating environments to each other, automating processes like users onboard/offboard, adding more tests for our automations, improving the internal infrastructure by adding a docker mirror in our cluster, creating android emulators that run in docker containers in our same VPC, to run E2E tests, enabling observability for applications that didn't have before. I also contributed by automating some internal processes that other business units were doing.
 
 ### Migthy Block [Working for Forte.io] - Senior DevOps Engineer (March-23/March-24)
