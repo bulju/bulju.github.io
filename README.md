@@ -26,8 +26,8 @@
 
 ### **Borderless Labs** – Senior Infrastructure Engineer  
 **December 2024 – Present**  
-Sole Infrastructure Engineer responsible for building the infra from scratch.
 
+- Sole Infrastructure Engineer responsible for building the infra from scratch.
 - Designed and deployed full **VPC** and networking, including private/public subnets for staging and production.  
 - Architected multi-account AWS setup using **AWS Organizations** with **SSO**.  
 - Implemented a **WireGuard**-based VPN to avoid unnecessary public endpoints.  
