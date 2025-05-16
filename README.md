@@ -13,7 +13,8 @@
 - Proficient in **Go**, **Groovy**, and **Python**.  
 - Passionate about automating infrastructure with **Terraform**, with additional experience using **Ansible**.  
 - Skilled in CI/CD using **Jenkins**, **GitHub Actions**, and **Buildkite**—including infrastructure management and pipeline maintenance.  
-- Strong advocate for **automation** and **Git** in engineering workflows to prevent manual errors and improve team efficiency.  
+- Strong advocate for **automation** and **Git** in engineering workflows to prevent manual errors and improve team efficiency.
+- Former penetration tester with a strong focus on security at every layer—from infrastructure to application design. I prioritize building **secure-by-default solutions**, regularly conduct threat modeling, and embed security checks in CI/CD pipelines.
 - Believe in making **data-driven** decisions, with **observability** being essential to healthy infrastructure and informed choices.  
 - Curious by nature; enjoy learning new technologies and tools to simplify workflows.  
 - Lifelong interest in **Linux** and **open source**.  
